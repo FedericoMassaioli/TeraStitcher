@@ -1,0 +1,17 @@
+# Default behavior for endline characters
+* text=auto
+
+*.c text
+*.h text
+*.cpp text
+*.hpp text
+*.cxx text
+*.hxx text
+*.txt text
+*.md text
+*.rc text
+*.qrc text
+
+*.png binary
+*.ico binary
+*.gif binary
